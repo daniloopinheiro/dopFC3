@@ -20,6 +20,72 @@
 - [ ] Práticas e exercícios
 - **Meta**: Criar e gerenciar containers básicos
 
+---
+
+## 🐳 Sumário do Curso Docker
+
+### 📚 Introdução
+- **Docker Introdução** (32:19)
+- **Instalando Docker** (05:45)
+
+### 🪟 WSL 2 (Windows)
+- **Conhecendo o WSL 2** (17:04)
+- **Instalando WSL 2 do zero** (11:58)
+- **Dica WSL2 + systemd**
+- **Backup com WSL 2** (09:26)
+- **Integrando Docker com WSL 2** (08:27)
+- **Dicas truques com WSL 2 e Windows Terminal** (18:45)
+- **Errata - Instalação do Docker no WSL/Windows**
+
+### 🚀 Fundamentos
+- **Repositório**
+- **Hello World** (08:42)
+- **Executando Ubuntu** (09:46)
+- **Publicando portas com nginx** (11:50)
+- **Removendo containers** (04:54)
+- **Acessando e alterando arquivos de um container** (12:22)
+
+### 💾 Volumes e Mounts
+- **Iniciando com bind mounts** (11:56)
+- **Trabalhando com volumes** (08:21)
+
+### 🖼️ Imagens e Dockerfile
+- **Entendendo imagens e DockerHub** (09:21)
+- **Criando primeira imagem com Dockerfile** (07:10)
+- **Avançando com Dockerfile** (09:14)
+- **ENTRYPOINT vs CMD** (09:07)
+- **Docker entrypoint exec** (10:29)
+- **Publicando imagem no DockerHub** (08:09)
+
+### 🌐 Networks
+- **Entendendo tipos de Network** (07:42)
+- **Trabalhando com bridge** (13:50)
+- **Trabalhando com host** (03:36)
+- **Container acessando nossa maquina** (05:57)
+
+### 🏗️ Aplicações Práticas
+- **Instalando framework em um container** (12:49)
+- **Ativando entrypoint e command** (17:41)
+- **Criando aplicação Node.js sem o Node** (07:37)
+- **Gerando imagem da aplicação Node.js** (07:47)
+- **Otimização utilizando Multistage Building** (12:13)
+- **Nginx como proxy reverso** (22:58)
+
+### 🐙 Docker Compose
+- **Iniciando com Docker-compose** (07:45)
+- **Buildando images com Docker-compose** (05:10)
+- **Criando banco de dados MySQL** (08:05)
+- **Configurando app node com docker-compose** (05:50)
+- **Errata - Criando banco de dados MySQL**
+- **Node vs MySQL** (08:41)
+- **Dependência entre containers** (11:01)
+- **Opções - Dependência entre containers**
+
+### 🎯 Desafios
+- **Desafio**
+- **Desafio Go**
+- **Nginx com Node.js**
+
 ### Dia 6-7: Padrões e Técnicas Avançadas com Git
 
 - [ ] Gitflow workflow
