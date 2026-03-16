@@ -29,14 +29,15 @@
 
 1. [Visão Geral](#visão-geral)
 2. [🚀 Roadmap de Estudos](#-roadmap-de-estudos)
-3. [CI/CD e Workflows](#cicd-e-workflows)
-4. [Instalação](#instalação)
-5. [Como Usar](#como-usar)
-6. [Configuração](#configuração)
-7. [Contribuições](#contribuições)
-8. [Artigos & Conteúdos](#artigos--conteúdos)
-9. [Licença](#licença)
-10. [Contato](#contato)
+3. [📅 Cronograma de Estudos](#-cronograma-de-estudos)
+4. [CI/CD e Workflows](#cicd-e-workflows)
+5. [Instalação](#instalação)
+6. [Como Usar](#como-usar)
+7. [Configuração](#configuração)
+8. [Contribuições](#contribuições)
+9. [Artigos & Conteúdos](#artigos--conteúdos)
+10. [Licença](#licença)
+11. [Contato](#contato)
 
 ## Visão Geral
 
@@ -648,6 +649,34 @@ Como utilizar os principais Cloud Providers para realizar deploy de suas aplica�
 | 🔄 | Em progresso (com percentual de conclusão) |
 | 📜 | Certificado disponível ao concluir |
 | ⚠️ | Atenção ou pré-requisito |
+
+---
+
+## 📅 Cronograma de Estudos
+
+Para um planejamento detalhado e estruturado dos seus estudos, consulte o **[Cronograma de Estudos](CRONOGRAMA_ESTUDOS.md)**.
+
+O cronograma inclui:
+
+- 📅 **Planejamento semanal** de 60 semanas
+- ⏰ **Estimativas de tempo** por módulo
+- ✅ **Checklists** de progresso
+- 🎯 **Metas intermediárias** e checkpoints
+- 💡 **Dicas de estudo** e boas práticas
+- 📈 **Acompanhamento** de progresso
+
+### 🚀 Início Rápido do Cronograma
+
+1. **Escolha sua carga horária**:
+   - Intensivo: 4-6h/dia (~4-5 meses)
+   - Moderado: 2-3h/dia (~8-10 meses)
+   - Leve: 1-2h/dia (~12-15 meses)
+
+2. **Siga o cronograma** semana a semana
+3. **Marque as tarefas concluídas** no checklist
+4. **Acompanhe seu progresso** regularmente
+
+> 📖 **[Acesse o Cronograma Completo](CRONOGRAMA_ESTUDOS.md)** para começar seus estudos de forma organizada!
 
 ---
 
