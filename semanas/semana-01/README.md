@@ -41,6 +41,49 @@ _Adicione aqui suas anotações, dificuldades encontradas e aprendizados desta s
 
 ---
 
+## 📞 Canais de Atendimento
+
+### DÚVIDAS TÉCNICAS
+
+**Fórum Especializado**: Clique na aba "Fórum" na parte superior da plataforma, faça o login e clique em "Faça uma pergunta".
+
+**Como funciona o Fórum:**
+- Acesse as dúvidas de outros(as) colegas
+- Escolha se sua dúvida será privada ou pública
+- Busque pelo assunto ou módulo da sua dúvida para verificar se já foi respondida
+- Inicialmente, nossa IA responderá à sua dúvida. Caso não seja solucionada, nossos tutores ajudarão em até 24 horas úteis
+
+### DÚVIDAS GERAIS
+
+- **Chat**: Utilize o chat na plataforma, localizado no canto inferior direito
+- **E-mail**: atendimento@fullcycle.com.br
+- **Horário de Atendimento**: Segunda a sexta-feira, das 09h00 às 17h00 (Horário de Brasília)
+
+> ⚠️ **IMPORTANTE**: Utilize o canal adequado de acordo com a sua dúvida (técnica ou geral) para que possamos atendê-lo(a) de forma mais assertiva.
+
+### FEEDBACK
+
+Tem alguma sugestão, elogio ou crítica construtiva? Estamos aqui para ajudar, é só chamar!
+
+---
+
+## 👥 Comunidade de Alunos
+
+### COMUNIDADE DE ALUNOS NO DISCORD
+
+Nossa comunidade é para incentivar o networking entre os alunos. Sinta-se à vontade para participar e interagir!
+
+**Como funciona a Comunidade:**
+- Acesse canais de texto e voz para conversar e trocar experiências com outros alunos
+- Compartilhe e fique por dentro das oportunidades de emprego e estágio publicadas pelos próprios alunos
+- Explore muitos outros canais disponíveis para aproveitar ao máximo sua experiência no curso
+
+**Link da Comunidade**: https://discord.com/invite/TWREKHZ3sU
+
+> ⚠️ **IMPORTANTE**: A comunidade no Discord é dedicada exclusivamente para interação entre alunos. Para obter ajuda técnica dos nossos tutores, abra um tópico em nosso fórum especializado.
+
+---
+
 ## 🔗 Links Úteis
 
 - [Voltar ao Cronograma Principal](../../CRONOGRAMA_ESTUDOS.md)
