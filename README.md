@@ -658,7 +658,7 @@ Para um planejamento detalhado e estruturado dos seus estudos, consulte o **[Cro
 
 O cronograma inclui:
 
-- 📅 **Planejamento semanal** de 60 semanas
+- 📅 **Planejamento semanal** de 60 semanas (cada semana em um arquivo na pasta [`semanas/`](semanas/): `semana-01.md` a `semana-60.md`)
 - ⏰ **Estimativas de tempo** por módulo
 - ✅ **Checklists** de progresso
 - 🎯 **Metas intermediárias** e checkpoints

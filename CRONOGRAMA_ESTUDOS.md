@@ -273,7 +273,7 @@ mindmap
 #### Semana 1: Introdução e Docker
 **Objetivo**: Compreender os fundamentos e configurar ambiente de desenvolvimento
 
-📁 **[Ver detalhes da Semana 1](./semanas/semana-01/README.md)**
+📁 **[Ver detalhes da Semana 1](./semanas/semana-01.md)**
 
 - [ ] **Dia 1-2**: Comece por Aqui (Leitura e orientações)
   - Leia todas as informações importantes
@@ -299,7 +299,7 @@ mindmap
 #### Semana 2-3: Fundamentos de Arquitetura
 **Objetivo**: Entender os princípios fundamentais de arquitetura de software
 
-📁 **[Ver detalhes da Semana 2](./semanas/semana-02/README.md)** | 📁 **[Ver detalhes da Semana 3](./semanas/semana-03/README.md)**
+📁 **[Ver detalhes da Semana 2](./semanas/semana-02.md)** | 📁 **[Ver detalhes da Semana 3](./semanas/semana-03.md)**
 
 - [ ] **Semana 2**: Fundamentos da Arquitetura de Software
   - Performance, Escalabilidade, Resiliência
@@ -319,7 +319,7 @@ mindmap
 #### Semana 4-5: Comunicação entre Sistemas
 **Objetivo**: Dominar diferentes protocolos de comunicação
 
-📁 **[Ver detalhes da Semana 4](./semanas/semana-04/README.md)** | 📁 **[Ver detalhes da Semana 5](./semanas/semana-05/README.md)**
+📁 **[Ver detalhes da Semana 4](./semanas/semana-04.md)** | 📁 **[Ver detalhes da Semana 5](./semanas/semana-05.md)**
 
 - [ ] **Semana 4**: REST API e gRPC
   - REST: conceitos e práticas
@@ -340,7 +340,7 @@ mindmap
 #### Semana 6: DDD - Conceitos Estratégicos
 **Objetivo**: Compreender DDD e seus conceitos fundamentais
 
-📁 **[Ver detalhes da Semana 6](./semanas/semana-06/README.md)**
+📁 **[Ver detalhes da Semana 6](./semanas/semana-06.md)**
 
 - [ ] **Dia 1-3**: Domain Driven Design
   - Bounded Contexts
@@ -364,7 +364,7 @@ mindmap
 #### Semana 7-8: DDD - Modelagem Tática
 **Objetivo**: Aplicar patterns táticos do DDD
 
-📁 **[Ver detalhes da Semana 7](./semanas/semana-07/README.md)** | 📁 **[Ver detalhes da Semana 8](./semanas/semana-08/README.md)**
+📁 **[Ver detalhes da Semana 7](./semanas/semana-07.md)** | 📁 **[Ver detalhes da Semana 8](./semanas/semana-08.md)**
 
 - [ ] **Semana 7**: Entities, Value Objects e Aggregates
   - Diferenças e quando usar
@@ -386,7 +386,7 @@ mindmap
 #### Semana 9: Arquitetura Hexagonal
 **Objetivo**: Implementar Ports and Adapters
 
-📁 **[Ver detalhes da Semana 9](./semanas/semana-09/README.md)**
+📁 **[Ver detalhes da Semana 9](./semanas/semana-09.md)**
 
 - [ ] **Dia 1-4**: Conceitos e implementação
   - Ports (interfaces)
@@ -404,7 +404,7 @@ mindmap
 #### Semana 10-12: Clean Architecture
 **Objetivo**: Dominar Clean Architecture
 
-📁 **[Ver detalhes da Semana 10](./semanas/semana-10/README.md)** | 📁 **[Ver detalhes da Semana 11](./semanas/semana-11/README.md)** | 📁 **[Ver detalhes da Semana 12](./semanas/semana-12/README.md)**
+📁 **[Ver detalhes da Semana 10](./semanas/semana-10.md)** | 📁 **[Ver detalhes da Semana 11](./semanas/semana-11.md)** | 📁 **[Ver detalhes da Semana 12](./semanas/semana-12.md)**
 
 - [ ] **Semana 10**: Fundamentos
   - Camadas da Clean Architecture
@@ -430,7 +430,7 @@ mindmap
 #### Semana 13: Sistemas Monolíticos
 **Objetivo**: Entender quando e como usar monolitos
 
-📁 **[Ver detalhes da Semana 13](./semanas/semana-13/README.md)**
+📁 **[Ver detalhes da Semana 13](./semanas/semana-13.md)**
 
 - [ ] **Dia 1-4**: Conceitos
   - Vantagens e desvantagens
@@ -448,7 +448,7 @@ mindmap
 #### Semana 14-16: Microsserviços
 **Objetivo**: Dominar arquitetura de microsserviços
 
-📁 **[Ver detalhes da Semana 14](./semanas/semana-14/README.md)** | 📁 **[Ver detalhes da Semana 15](./semanas/semana-15/README.md)** | 📁 **[Ver detalhes da Semana 16](./semanas/semana-16/README.md)**
+📁 **[Ver detalhes da Semana 14](./semanas/semana-14.md)** | 📁 **[Ver detalhes da Semana 15](./semanas/semana-15.md)** | 📁 **[Ver detalhes da Semana 16](./semanas/semana-16.md)**
 
 - [ ] **Semana 14**: Fundamentos
   - Princípios de microsserviços
@@ -471,7 +471,7 @@ mindmap
 #### Semana 17-18: Event Driven Architecture
 **Objetivo**: Implementar comunicação assíncrona
 
-📁 **[Ver detalhes da Semana 17](./semanas/semana-17/README.md)** | 📁 **[Ver detalhes da Semana 18](./semanas/semana-18/README.md)**
+📁 **[Ver detalhes da Semana 17](./semanas/semana-17.md)** | 📁 **[Ver detalhes da Semana 18](./semanas/semana-18.md)**
 
 - [ ] **Semana 17**: EDA Concepts
   - Event-driven patterns
@@ -491,7 +491,7 @@ mindmap
 #### Semana 19-20: RabbitMQ
 **Objetivo**: Dominar RabbitMQ para mensageria
 
-📁 **[Ver detalhes da Semana 19](./semanas/semana-19/README.md)** | 📁 **[Ver detalhes da Semana 20](./semanas/semana-20/README.md)**
+📁 **[Ver detalhes da Semana 19](./semanas/semana-19.md)** | 📁 **[Ver detalhes da Semana 20](./semanas/semana-20.md)**
 
 - [ ] **Semana 19**: Fundamentos
   - Exchanges e Queues
@@ -510,7 +510,7 @@ mindmap
 #### Semana 21-22: Apache Kafka
 **Objetivo**: Implementar streams de dados com Kafka
 
-📁 **[Ver detalhes da Semana 21](./semanas/semana-21/README.md)** | 📁 **[Ver detalhes da Semana 22](./semanas/semana-22/README.md)**
+📁 **[Ver detalhes da Semana 21](./semanas/semana-21.md)** | 📁 **[Ver detalhes da Semana 22](./semanas/semana-22.md)**
 
 - [ ] **Semana 21**: Conceitos
   - Topics e Partitions
@@ -529,7 +529,7 @@ mindmap
 #### Semana 23: Autenticação e Keycloak
 **Objetivo**: Implementar autenticação e autorização
 
-📁 **[Ver detalhes da Semana 23](./semanas/semana-23/README.md)**
+📁 **[Ver detalhes da Semana 23](./semanas/semana-23.md)**
 
 - [ ] **Dia 1-4**: OAuth 2.0 e OpenID Connect
   - Conceitos fundamentais
@@ -549,7 +549,7 @@ mindmap
 #### Semana 24: Arquitetura do Projeto Codeflix
 **Objetivo**: Entender a arquitetura completa
 
-📁 **[Ver detalhes da Semana 24](./semanas/semana-24/README.md)**
+📁 **[Ver detalhes da Semana 24](./semanas/semana-24.md)**
 
 - [ ] **Dia 1-3**: Diagrama C4
   - Visão geral do sistema
@@ -567,7 +567,7 @@ mindmap
 #### Semana 25-27: Backend - Admin Catálogo (.NET)
 **Objetivo**: Criar backend administrativo
 
-📁 **[Ver detalhes da Semana 25](./semanas/semana-25/README.md)** | 📁 **[Ver detalhes da Semana 26](./semanas/semana-26/README.md)** | 📁 **[Ver detalhes da Semana 27](./semanas/semana-27/README.md)**
+📁 **[Ver detalhes da Semana 25](./semanas/semana-25.md)** | 📁 **[Ver detalhes da Semana 26](./semanas/semana-26.md)** | 📁 **[Ver detalhes da Semana 27](./semanas/semana-27.md)**
 
 - [ ] **Semana 25**: Setup e estrutura
   - Configuração do projeto
@@ -589,7 +589,7 @@ mindmap
 #### Semana 28-29: Frontend - Portal do Usuário (React)
 **Objetivo**: Interface do usuário
 
-📁 **[Ver detalhes da Semana 28](./semanas/semana-28/README.md)** | 📁 **[Ver detalhes da Semana 29](./semanas/semana-29/README.md)**
+📁 **[Ver detalhes da Semana 28](./semanas/semana-28.md)** | 📁 **[Ver detalhes da Semana 29](./semanas/semana-29.md)**
 
 - [ ] **Semana 28**: Setup e componentes
   - Estrutura React
@@ -607,7 +607,7 @@ mindmap
 #### Semana 30-31: Frontend - Admin (React)
 **Objetivo**: Painel administrativo
 
-📁 **[Ver detalhes da Semana 30](./semanas/semana-30/README.md)** | 📁 **[Ver detalhes da Semana 31](./semanas/semana-31/README.md)**
+📁 **[Ver detalhes da Semana 30](./semanas/semana-30.md)** | 📁 **[Ver detalhes da Semana 31](./semanas/semana-31.md)**
 
 - [ ] **Semana 30**: Interface admin
   - Dashboard
@@ -625,7 +625,7 @@ mindmap
 #### Semana 32-33: Encoder de Vídeo (Go)
 **Objetivo**: Processamento de vídeos
 
-📁 **[Ver detalhes da Semana 32](./semanas/semana-32/README.md)** | 📁 **[Ver detalhes da Semana 33](./semanas/semana-33/README.md)**
+📁 **[Ver detalhes da Semana 32](./semanas/semana-32.md)** | 📁 **[Ver detalhes da Semana 33](./semanas/semana-33.md)**
 
 - [ ] **Semana 32**: Setup Go
   - Estrutura do projeto
@@ -643,7 +643,7 @@ mindmap
 #### Semana 34-35: Microsserviços - API Catálogo
 **Objetivo**: Implementar microsserviço de catálogo
 
-📁 **[Ver detalhes da Semana 34](./semanas/semana-34/README.md)** | 📁 **[Ver detalhes da Semana 35](./semanas/semana-35/README.md)**
+📁 **[Ver detalhes da Semana 34](./semanas/semana-34.md)** | 📁 **[Ver detalhes da Semana 35](./semanas/semana-35.md)**
 
 - [ ] **Semana 34**: Escolha da tecnologia
   - .NET, Java, PHP, Python ou TypeScript
@@ -663,7 +663,7 @@ mindmap
 #### Semana 36: Integração Contínua
 **Objetivo**: Implementar pipelines de CI
 
-📁 **[Ver detalhes da Semana 36](./semanas/semana-36/README.md)**
+📁 **[Ver detalhes da Semana 36](./semanas/semana-36.md)**
 
 - [ ] **Dia 1-4**: Conceitos
   - Pipelines de CI
@@ -682,7 +682,7 @@ mindmap
 #### Semana 37-38: CI/CD - Continuação e Finalização
 **Objetivo**: Implementar pipelines de CI/CD completos
 
-📁 **[Ver detalhes da Semana 37](./semanas/semana-37/README.md)** | 📁 **[Ver detalhes da Semana 38](./semanas/semana-38/README.md)**
+📁 **[Ver detalhes da Semana 37](./semanas/semana-37.md)** | 📁 **[Ver detalhes da Semana 38](./semanas/semana-38.md)**
 
 - [ ] **Semana 37**: Continuação
   - Aprofundamento em CI/CD
@@ -701,7 +701,7 @@ mindmap
 #### Semana 39-41: Kubernetes
 **Objetivo**: Orquestrar containers com Kubernetes
 
-📁 **[Ver detalhes da Semana 39](./semanas/semana-39/README.md)** | 📁 **[Ver detalhes da Semana 40](./semanas/semana-40/README.md)** | 📁 **[Ver detalhes da Semana 41](./semanas/semana-41/README.md)**
+📁 **[Ver detalhes da Semana 39](./semanas/semana-39.md)** | 📁 **[Ver detalhes da Semana 40](./semanas/semana-40.md)** | 📁 **[Ver detalhes da Semana 41](./semanas/semana-41.md)**
 
 - [ ] **Semana 39**: Fundamentos
   - Pods, Services, Deployments
@@ -724,7 +724,7 @@ mindmap
 #### Semana 42-43: Service Mesh com Istio
 **Objetivo**: Implementar service mesh
 
-📁 **[Ver detalhes da Semana 42](./semanas/semana-42/README.md)** | 📁 **[Ver detalhes da Semana 43](./semanas/semana-43/README.md)**
+📁 **[Ver detalhes da Semana 42](./semanas/semana-42.md)** | 📁 **[Ver detalhes da Semana 43](./semanas/semana-43.md)**
 
 - [ ] **Semana 42**: Conceitos
   - Service mesh architecture
@@ -745,7 +745,7 @@ mindmap
 #### Semana 44: API Gateway
 **Objetivo**: Entender padrão API Gateway
 
-📁 **[Ver detalhes da Semana 44](./semanas/semana-44/README.md)**
+📁 **[Ver detalhes da Semana 44](./semanas/semana-44.md)**
 
 - [ ] **Dia 1-4**: Conceitos
   - Padrão API Gateway
@@ -763,7 +763,7 @@ mindmap
 #### Semana 45-46: Kong e Kubernetes
 **Objetivo**: Implementar Kong Gateway
 
-📁 **[Ver detalhes da Semana 45](./semanas/semana-45/README.md)** | 📁 **[Ver detalhes da Semana 46](./semanas/semana-46/README.md)**
+📁 **[Ver detalhes da Semana 45](./semanas/semana-45.md)** | 📁 **[Ver detalhes da Semana 46](./semanas/semana-46.md)**
 
 - [ ] **Semana 45**: Kong Gateway
   - Instalação e configuração
@@ -783,7 +783,7 @@ mindmap
 #### Semana 47: Observabilidade
 **Objetivo**: Implementar observabilidade
 
-📁 **[Ver detalhes da Semana 47](./semanas/semana-47/README.md)**
+📁 **[Ver detalhes da Semana 47](./semanas/semana-47.md)**
 
 - [ ] **Dia 1-4**: Conceitos
   - Logs, Metrics, Traces
@@ -801,7 +801,7 @@ mindmap
 #### Semana 48-49: OpenTelemetry
 **Objetivo**: Padronizar observabilidade
 
-📁 **[Ver detalhes da Semana 48](./semanas/semana-48/README.md)** | 📁 **[Ver detalhes da Semana 49](./semanas/semana-49/README.md)**
+📁 **[Ver detalhes da Semana 48](./semanas/semana-48.md)** | 📁 **[Ver detalhes da Semana 49](./semanas/semana-49.md)**
 
 - [ ] **Semana 48**: OpenTelemetry
   - Standard e conceitos
@@ -821,7 +821,7 @@ mindmap
 #### Semana 50-52: Terraform
 **Objetivo**: Infraestrutura como código
 
-📁 **[Ver detalhes da Semana 50](./semanas/semana-50/README.md)** | 📁 **[Ver detalhes da Semana 51](./semanas/semana-51/README.md)** | 📁 **[Ver detalhes da Semana 52](./semanas/semana-52/README.md)**
+📁 **[Ver detalhes da Semana 50](./semanas/semana-50.md)** | 📁 **[Ver detalhes da Semana 51](./semanas/semana-51.md)** | 📁 **[Ver detalhes da Semana 52](./semanas/semana-52.md)**
 
 - [ ] **Semana 50**: Fundamentos
   - Infrastructure as Code
@@ -844,7 +844,7 @@ mindmap
 #### Semana 53-54: Ansible
 **Objetivo**: Automação de configuração
 
-📁 **[Ver detalhes da Semana 53](./semanas/semana-53/README.md)** | 📁 **[Ver detalhes da Semana 54](./semanas/semana-54/README.md)**
+📁 **[Ver detalhes da Semana 53](./semanas/semana-53.md)** | 📁 **[Ver detalhes da Semana 54](./semanas/semana-54.md)**
 
 - [ ] **Semana 53**: Conceitos
   - Configuration management
@@ -863,7 +863,7 @@ mindmap
 #### Semana 55: GitOps
 **Objetivo**: Deploy declarativo
 
-📁 **[Ver detalhes da Semana 55](./semanas/semana-55/README.md)**
+📁 **[Ver detalhes da Semana 55](./semanas/semana-55.md)**
 
 - [ ] **Dia 1-4**: Conceitos
   - GitOps principles
@@ -883,7 +883,7 @@ mindmap
 #### Semana 56-60: Deploy nas Cloud Providers
 **Objetivo**: Deploy em produção
 
-📁 **[Ver detalhes da Semana 56](./semanas/semana-56/README.md)** | 📁 **[Ver detalhes da Semana 57](./semanas/semana-57/README.md)** | 📁 **[Ver detalhes da Semana 58](./semanas/semana-58/README.md)** | 📁 **[Ver detalhes da Semana 59](./semanas/semana-59/README.md)** | 📁 **[Ver detalhes da Semana 60](./semanas/semana-60/README.md)**
+📁 **[Ver detalhes da Semana 56](./semanas/semana-56.md)** | 📁 **[Ver detalhes da Semana 57](./semanas/semana-57.md)** | 📁 **[Ver detalhes da Semana 58](./semanas/semana-58.md)** | 📁 **[Ver detalhes da Semana 59](./semanas/semana-59.md)** | 📁 **[Ver detalhes da Semana 60](./semanas/semana-60.md)**
 
 - [ ] **Semana 56**: AWS
   - Container services
